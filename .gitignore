@@ -1,0 +1,3 @@
+/project1/data/*
+/project2/data/*
+!.gitkeep
