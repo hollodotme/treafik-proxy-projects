@@ -1,0 +1,9 @@
+{
+  "name": "traefik-routing/project1",
+  "description": "Example project 1 for reverse-proxy routing using traefik",
+  "license": "MIT",
+  "require": {},
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  }
+}

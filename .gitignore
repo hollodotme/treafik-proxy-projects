@@ -1,3 +1,6 @@
 /project1/data/*
 /project2/data/*
+/project1/vendor/
+/project2/vendor/
+composer.lock
 !.gitkeep

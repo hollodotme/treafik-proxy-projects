@@ -59,6 +59,7 @@ services:
       volumes:
         - ./:/app
       networks:
+        - default
         - project1
       command: "update -o -v"
 
